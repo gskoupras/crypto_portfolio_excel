@@ -1,2 +1,2 @@
-# crypto_portfolio_excel
+# Crypto Portfolio with Excel
  A live-updated Cryptocurrency Portfolio tracker with Microsoft Excel
