@@ -3,14 +3,14 @@
 
  ### Features
 
-🌎 Aggregate Market Information
-💰 Overview of Holdings
-📊 Profit and Loss per Asset Chart
-⭕️ Asset Allocation Chart
-📅 Trade History
-📈 Net Worth Calculator
-☁️ Automatic Live Updates, Minimal User Input
-⚡ <100KB - Fast & Lightweight
+🌎 Aggregate Market Information\
+💰 Overview of Holdings\
+📊 Profit and Loss per Asset Chart\
+⭕️ Asset Allocation Chart\
+📅 Trade History\
+📈 Net Worth Calculator\
+☁️ Automatic Live Updates, Minimal User Input\
+⚡ <100KB - Fast & Lightweight\
 
  ### Screenshots
 
