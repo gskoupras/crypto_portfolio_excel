@@ -1,5 +1,5 @@
 # Crypto Portfolio with Excel
- A live-updated Cryptocurrency Portfolio tracker with Microsoft Excel.
+ A live-updated Cryptocurrency Portfolio tracker with Microsoft Excel.\
  Data are provided from the [CoinMarketCap API](https://coinmarketcap.com/api/)
 
  ### Features
