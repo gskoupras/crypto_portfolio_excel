@@ -10,7 +10,7 @@
 📅 Trade History\
 📈 Net Worth Calculator\
 ☁️ Automatic Live Updates, Minimal User Input\
-⚡ <100KB - Fast & Lightweight\
+⚡ <100KB - Fast & Lightweight
 
  ### Screenshots
 
