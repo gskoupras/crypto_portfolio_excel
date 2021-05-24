@@ -17,15 +17,15 @@
 
  * Market information and Overview of Holdings
 
-<img src="https://github.com/gskoupras/crypto_portfolio_excel/blob/a371849912c3ae2081b352fad77270264742ef36/screenshots/dashboard.png"  width="100%"> 
+<img src="https://github.com/gskoupras/crypto_portfolio_excel/blob/ac71541b528a9a81478de186e18dba4443d5e83b/screenshots/dashboard.png"  width="100%"> 
 
 * Profit and Loss per Asset Chart
 
-<img src="https://github.com/gskoupras/crypto_portfolio_excel/blob/4438e230d72a0295af05e001f438a5a57a141b5b/screenshots/pnl_chart.png"  width="100%"> 
+<img src="https://github.com/gskoupras/crypto_portfolio_excel/blob/ac71541b528a9a81478de186e18dba4443d5e83b/screenshots/pnl_chart.png"  width="100%"> 
 
 * Asset Allocation Chart
 
-<img src="https://github.com/gskoupras/crypto_portfolio_excel/blob/4438e230d72a0295af05e001f438a5a57a141b5b/screenshots/allocation_chart.png"  width="100%"> 
+<img src="https://github.com/gskoupras/crypto_portfolio_excel/blob/ac71541b528a9a81478de186e18dba4443d5e83b/screenshots/allocation_chart.png"  width="100%"> 
 
 * Trade History
 
